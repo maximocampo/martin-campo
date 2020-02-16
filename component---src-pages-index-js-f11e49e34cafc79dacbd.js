@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),r=(t("gqNJ"),t("DYRK")),i=Object(r.createUseStyles)({container:{width:"100%",height:"100%",margin:100}});n.default=function(e){e.children;var n=i();return c.a.createElement("div",{className:n.container},c.a.createElement("h1",null,"Martín Campo"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-f11e49e34cafc79dacbd.js.map
