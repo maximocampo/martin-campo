@@ -48,7 +48,7 @@ const useStyles = createUseStyles({
 });
 
 const Layout = ({children}) => {
-  const [yOffset, setYoffset] = useState(window.pageYOffset);
+  const [yOffset, setYoffset] = useState(0);
   const classes = useStyles();
   
   useEffect(() => {
